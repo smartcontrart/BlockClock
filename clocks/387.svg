@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+                                <defs>
+                                <style>
+                                    .cls-8{fill:#fff;font-family:Helvetica;font-size:22.76px}
+                                    .cls-9{fill:#000;font-family:Verdana;font-size:80px}
+                                    .cls-1{fill:#fff;}.cls-2{opacity:.6;}
+                                    </style>
+                                </defs>
+                                    <path style="fill:#7fbfad" id="background" d="M0 0h1080v1080H0z"/>
+                                    <g>
+                                        <polygon class="cls-2" points="206.19 653.62 873.49 426.03 1362.51 915.04 915.05 1362.5 206.19 653.62"/>
+                                        <path x="203" y="422" width="673" height="236" rx="31" ry="31" style="fill:#c90000" d="M234 421.82H845.55A31.14 31.14 0 0 1 877 452.96V627.05A31.14 31 0 0 1 845.55 658.19H234.46A31.14 31.14 0 0 1 203.32 627.05V452.96A31.14 31.14 0 0 1 234.46 421.82z"/>
+                                        <path x="203" y="423" width="674" height="235" rx="26" ry="26" style="stroke-miterlimit:10;fill:none;stroke:#000;stroke-width:8.44px" d="M229.48 422.55H850.51A26.39 26.39 0 0 1 876.9 448.94V631.06A26.39 26.39 0 0 1 850.51 657.45H229.48A26.39 26.39 0 0 1 203.09 631.06V448.94A26.39 26.39 0 0 1 229.48 422.55z"/>
+                                        <path x="250" y="460" width="579" height="127" rx="15" ry="15" style="fill:#cccccc" d="M265.54 459.66H814.47A15.17 15.17 0 0 1 829.64 474.83V571.7A15.17 15.17 0 0 1 814.47 586.87H265.54A15.17 15.17 0 0 1 250.37 571.7V474.83A15.17 15.17 0 0 1 265.54 459.66z"/>
+                                        <text transform="translate(285 555)">
+                                            <tspan class="cls-9" x="0" y="0">
+                                                <animate attributeName="fill" values="#000;transparent" begin="0s" dur="2s" calcMode="discrete" repeatCount="indefinite"/>
+                                            1234567890
+                                            </tspan>
+                                        </text>
+                                        <text class="cls-8" transform="translate(278 626)">
+                                            <tspan x="0" y="0">Clock</tspan>
+                                        </text>
+                                        <circle cx="259" cy="618" r="8.5" fill="0074b8" stroke="#dafff4" stroke-width="1.5px"/>
+                                        <text class="cls-8" transform="translate(425 626)">
+                                            <tspan x="0" y="0">Timer</tspan>
+                                        </text>
+                                        <circle cx="408" cy="618" r="8.5" fill="0074b8" stroke="#dafff4" stroke-width="1.5px"/>
+                                        <text class="cls-8" transform="translate(590 626)">
+                                            <tspan x="0" y="0">Chrono</tspan>
+                                        </text>
+                                        <circle cx="570" cy="618" r="8.5" fill="0074b8" stroke="#dafff4" stroke-width="1.5px"/>
+                                        <text class="cls-8" transform="translate(758 626)">
+                                            <tspan x="0" y="0">Alarm</tspan>
+                                        </text>
+                                        <circle cx="739" cy="618" r="8.5" stroke="#dafff4" stroke-width="1.5px">
+                            
+                                            <animate attributeName="fill" values="#000;#0074b8" begin="0s" dur="2s" calcMode="discrete" repeatCount="indefinite"/>
+                                        </circle>
+                                    </g>
+                                </svg>

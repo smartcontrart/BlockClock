@@ -1,0 +1,6 @@
+1 //  Contract that explains the rules etherscan (the portions that are relevant for the rest)
+2 // The contract can give some money for the transactions (Rinkeby)
+3 // It then give an address to another contract -> Go to this new contract
+4 // The new contract has 3 functions. 2 give an address, onoe of the address go to a contract that is not published, on goes to a contract that is published
+5 // The contract that is published has a function that takes as a parameter the address of the contract not published. Return the next contract to visit
+6 // The next contract has no callable functions. There is one transaction that happened. It gives the link to the contract to mint for free the Block Clock. This contract will mention the rest is on Mainnet

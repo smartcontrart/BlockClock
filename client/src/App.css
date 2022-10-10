@@ -1,0 +1,76 @@
+html, body{
+  min-height: 100vh;
+  font-family: "Helvetica", sans-serif;
+}
+
+.App {
+  text-align: center; 
+  min-height: 100vh;
+  min-width: 60vw;
+  color: #f6f6f6;
+  justify-content: center;
+  align-items: center;
+  font-family: "Helvetica", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.05rem;
+}
+
+#App_row{
+  min-height: 90vh;
+}
+
+.clock_img{
+  border: #000 solid 5px;
+  height: 400px !important;
+  width: 400px !important;
+  box-shadow: 2px;
+  background-color: white; 
+  padding: 10px;
+}
+
+.background{
+  /* background-color: #7fbfad; */
+  /* background-color: #000; */
+}
+
+.small_font{
+  font-size: 10px;
+}
+
+.clockInput{
+  max-width: 50% !important;
+}
+
+@media screen and (max-width: 650px) {
+
+  .home_container{
+    width: 100%;
+    font-size: 4vw;
+  }
+
+  .small_font{
+    font-size: 2vw;
+  }
+
+  .text_left{
+    text-align: center;
+  }
+
+  .clockInput{
+    max-width: 90% !important;
+  }
+
+  .about_graphic{
+    max-width: 80vw;
+    /* margin-left: -10vw; */
+  }
+
+  .home_title{
+    font-size: 1.5rem;
+    /* white-space: normal; */
+  }
+
+} 
+
+
+
